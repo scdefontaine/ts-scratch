@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {"id": "1", "next": null, "prev": null, "value": 1}
+  ],
+  "classMethodsToCall": [
+    {
+      "arguments": ["1"],
+      "method": "setHead"
+    }
+  ]
+}
